@@ -1,1 +1,1 @@
-# openwrt-lede-dl
+openwrt编译需要使用的dl库，可以下载到本地后放到dl文件夹中，减少下载的时间！
